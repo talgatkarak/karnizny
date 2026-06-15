@@ -1,3 +1,5 @@
+[← Back to Contents](./)
+
 # 2. Day 1
 
 ## 2.1. The Ascent Begins
