@@ -1,3 +1,5 @@
+[← Back to Contents](./)
+
 # 4. Day 3
 
 ## 4.1. Surviving the Ice Trap: Monday Morning
