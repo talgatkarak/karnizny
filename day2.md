@@ -1,3 +1,5 @@
+[← Back to Contents](./)
+
 # 3. Day 2
 
 ## 3.1. Ascending to the Almaty-Alagir Gorge
