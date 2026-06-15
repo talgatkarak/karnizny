@@ -1,4 +1,4 @@
-# Karnizny: A Chronicle of Survival at 3,900m
+# Memories. Karnizny Peak
 
 ![Book Cover](images/cover.png)
 
