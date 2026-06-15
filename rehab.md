@@ -1,3 +1,5 @@
+[← Back to Contents](./)
+
 # 5. Rehabilitation
 
 ## 5.1. A Month in the Hospital
