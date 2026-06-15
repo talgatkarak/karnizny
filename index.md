@@ -1,5 +1,7 @@
 # Karnizny: A Chronicle of Survival at 3,900m
 
+![Book Cover](images/cover.png)
+
 Welcome to the digital logbook of a solo alpine expedition in the Tien Shan mountains of Almaty. This is a story of human error, the brutal realism of the mountains, and a minute-by-minute breakdown of critical survival decisions. 
 
 The text is structured as a "black box" flight recorder—tracking the cold, dry timestamps of the journey, interrupted by raw confessions of the mistakes made along the way.
