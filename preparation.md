@@ -1,19 +1,19 @@
 [← Back to Contents](./)
 
-# 1. Preparation for the Trek
+# 1. Preparation for the hiking trip
 
 ## 1.1. Route Planning
 
 **Data Matrix:**
-*   **Target:** Karnizny Peak (Summit Elevation: ~3,900m)
-*   **Location:** Trans-Ili Alatau range, Tien Shan mountains, near Almaty, Kazakhstan
-*   **Access Route:** Via Hydroelectric Power Station 2 (HPP-2) / Ayusai Gorge up to the Cosmostation (~3,200m)
+*   **Target:** Karnizny Peak (Summit Elevation: 4075 m)
+*   **Location:** Ili Alatau range, Tien Shan mountains, near Almaty, Kazakhstan
+*   **Access Route:** Ayusai Gorge up to the Space Station (Cosmostation)
 *   **Estimated Trek Distance:** ~27-30 km total traverse
 *   **Standard Route Window:** 2 days minimum for safe acclimatization and execution
 
-The mathematical blueprint of the trek was clean on my screen. I plotted the trail using GPS maps, tracking the elevation gain from the base up past the Cosmostation to the ridges connecting Tourist Peak, Turan Peak, and ultimately Karnizny Peak. On paper, it was a sequence of manageable waypoints, predictable inclines, and calculable pacing. 
+The mathematical blueprint of the route was clean on my screen. I plotted the trail using GPS maps, tracking the elevation gain from the base up past the Cosmostation to the ridges connecting Tourist Peak, Turan Peak, and ultimately Karnizny Peak. On paper, it was a sequence of manageable waypoints, predictable inclines, and calculable pacing. 
 
-> **[Confession]:** I fell into the engineer's trap: mistaking a clear layout on a 2D screen for the volatile, living reality of an alpine landscape. I spent hours studying lines on digital toporaps, calculating optimal speeds without factoring in how quickly a sudden weather shift at 3,900 meters obliterates a paper timeline. I treated the mountain like a system with predictable variables. I assumed that because the route was mapped, it was conquered.
+> **[Confession]:** I tried to calculate and predict every single meter in my route, but it is almost impossible.
 
 ---
 
